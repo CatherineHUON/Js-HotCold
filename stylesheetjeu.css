@@ -1,0 +1,41 @@
+.jeu{
+  height: 100px;
+  width: 100%;
+}
+h2{
+  width: 80%;
+  height: 60%;
+  background-color: navy;
+  text-align: center;
+}
+.règles{
+  width: 50%;
+  height: 250%;
+  background-color: lightblue;
+  float:left;
+  margin-top: 0;
+  margin-top: -20px;
+}
+h3{
+  text-align: center;
+}
+#bouton{
+  width: 100px;
+  margin-left: 30px;
+  box-shadow: 1px 1px 1PX white;
+  cursor: pointer;
+}
+.résultat{
+  width: 30%;
+  height: 250%;
+  background-color: #6495ED;
+  float: left;
+  margin-top: -20px;
+}
+#indication{
+  text-align: center;
+  font-weight: bold;
+  font-family: Helvetica sans-serif;
+  color: #800000;
+  font-size: 20px;
+}
